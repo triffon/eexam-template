@@ -1,0 +1,3 @@
+[submodule "eexam"]
+	path = eexam
+	url = https://github.com/triffon/eexam
